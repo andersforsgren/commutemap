@@ -13,9 +13,7 @@
         },
         tileSize: new google.maps.Size(256, 256)
     });
-
-    map.overlayMapTypes.push(imageMapType);
-       
+    map.overlayMapTypes.push(imageMapType);       
     map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('legend'));
 });
 
