@@ -1,0 +1,57 @@
+﻿ #map {
+     position:absolute;top:0;bottom:0;left:0;right: 0;          
+ }
+
+
+ .l0 {
+     background: #0000FF;
+     border-top: 1px solid #666;
+ }
+
+ .l5 {     
+     background: #0065FF;
+ }
+
+ .l10 {     
+     background: #00CBFF;
+ }
+
+ .l15 {     
+     background: #00FFCB;
+ }
+
+ .l20 {     
+     background: #00FF65;
+ }
+
+ .l25 {     
+     background: #00FF00;
+ }
+
+ .l30 {     
+     background: #65FF00;
+ }
+
+ .l35 {
+     background: #CCFF00;
+ }
+
+ .l40 {     
+     background: #FFCC00;
+ }
+
+ .l45 {
+     background: #FF6600;
+ }
+
+ .l50 {     
+     background: #FF0000;
+ }
+
+ .legend_box {     
+     width: 50px;
+     height: 50px;
+     padding: 4px;     
+     border: 1px solid #666;
+     border-top: none;
+ }
